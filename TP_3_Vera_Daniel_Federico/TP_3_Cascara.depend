@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1496446864 source:d:\users\n a h u e l\desktop\fede\tp3\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496443566 d:\users\n a h u e l\desktop\fede\tp3\tp3\tp_3_cascara\funciones.h
+
+1496459538 source:d:\users\n a h u e l\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496443566 d:\users\n a h u e l\desktop\tp_3_cascara\funciones.h
+
+1497536324 source:d:\users\n a h u e l\desktop\tp_3_cascara listo entrega\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1497536104 d:\users\n a h u e l\desktop\tp_3_cascara listo entrega\funciones.h
+
+1497538172 source:d:\users\n a h u e l\desktop\tp_3_cascara listo entrega\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1498663798 source:d:\users\n a h u e l\desktop\fede ultimo\tp_3_cascara listo entrega\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1498663407 d:\users\n a h u e l\desktop\fede ultimo\tp_3_cascara listo entrega\funciones.h
+
+1498663628 source:d:\users\n a h u e l\desktop\fede ultimo\tp_3_cascara listo entrega\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1498677179 source:d:\users\n a h u e l\desktop\fede ultimo0\tp_3_cascara listo entrega\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1498675878 d:\users\n a h u e l\desktop\fede ultimo0\tp_3_cascara listo entrega\funciones.h
+
+1498677449 source:d:\users\n a h u e l\desktop\fede ultimo0\tp_3_cascara listo entrega\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
