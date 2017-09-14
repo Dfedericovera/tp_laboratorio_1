@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\bin\Debug\ej 31 guia2017.exe.config
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\obj\Debug\ej 31 guia2017.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\bin\Debug\ej 31 guia2017.exe
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\bin\Debug\ej 31 guia2017.pdb
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\obj\Debug\ej 31 guia2017.exe
+C:\Users\alumno\Desktop\ej 31 guia2017\ej 31 guia2017\obj\Debug\ej 31 guia2017.pdb
